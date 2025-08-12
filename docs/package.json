@@ -25,6 +25,6 @@
     "clsx": "^1.2.1",
     "eslint-plugin-storybook": "^0.6.12",
     "storybook": "^7.1.0",
-    "storybook-addon-pseudo-states": "^2.1.0"
+    "storybook-addon-pseudo-states": "^2.2.1"
   }
 }
