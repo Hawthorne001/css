@@ -10,7 +10,7 @@
     "node": ">= 16.x"
   },
   "dependencies": {
-    "@babel/core": "^7.16.7",
+    "@babel/core": "^7.28.5",
     "@geometricpanda/storybook-addon-badges": "^2.0.0",
     "@storybook/addon-essentials": "^7.1.0",
     "@storybook/addon-interactions": "^7.0.26",
